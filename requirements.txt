@@ -1,5 +1,5 @@
-streamlit
-numpy
+Streamlit==1.35.0
+numpy==1.26.3
 pickle-mixin
-tensorflow
+tensorflow==2.16.1
 scikit-learn
